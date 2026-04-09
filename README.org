@@ -1,0 +1,6 @@
+#+TITLE: Evolution of Extraterrestrial Life
+#+AUTHOR: David James
+
+These are the coding lessons related to my Spring Seminar course part of UCLA Cluster 70.
+
+Lessons are connected to David Pine's Intro to Python Book where some problems are used for this classes needs.
